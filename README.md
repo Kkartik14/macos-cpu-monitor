@@ -24,8 +24,8 @@ Head to [**Releases**](../../releases/latest) and download `CPUMonitor.app.zip`.
 Requires Xcode Command Line Tools.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cpu-monitor.git
-cd cpu-monitor
+git clone https://github.com/Kkartik14/macos-cpu-monitor.git
+cd macos-cpu-monitor
 make run
 ```
 
