@@ -1,0 +1,4 @@
+.build/
+CPUMonitor.app/
+.DS_Store
+*.swp
