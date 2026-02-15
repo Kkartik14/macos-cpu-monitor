@@ -1,4 +1,8 @@
 .build/
 CPUMonitor.app/
+CPUMonitor.app.zip
+AppIcon.iconset/
+AppIcon.png
+generate_icon.py
 .DS_Store
 *.swp
